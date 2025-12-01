@@ -1,0 +1,18 @@
+{
+  "name": "nexus-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0",
+    "ts-node": ">=8.0.0",
+    "typescript": ">=4.5.0"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "recharts": "^3.5.0",
+    "sonner": "^2.0.7"
+  }
+}
