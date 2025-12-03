@@ -1,4 +1,5 @@
 import { ethers } from "hardhat";
+import { json } from "hardhat/internal/core/params/argumentTypes";
 
 async function main() {
   console.log("\n🔵 --- PHASE 1: SETUP ---");
